@@ -13,7 +13,7 @@ Let's try to see where can we improve.
 
 ## Country-wise Numbers
 
-We see that most of the customers and purchases are from Singapore least being from Montenegro. The company is probably based in Singapore (not given). Perhaps regionalized marketing strategies targeted for the top 3 countries.
+We see that most of the customers and purchases are from Singapore least being from Montenegro. The company is probably based in Singapore (not given). 
 
 ![](https://github.com/DebangshuB/Tableu-Market-Analysis/blob/main/Images/Country-wise%20Stats.png)
 
@@ -23,7 +23,7 @@ The graph shows distribution of average income by Age and Country.
 
 Looking at Income by Country we see every country has median income close to $50,000 with USA being the highest with $55,000.
 
-Looking at Income by Age we see something interesting. The individuals who are of 25-30 years of age have median income of $71,000. Then it roughly increases in an expected fashion from the age group of 30-35 years to 75-80 years from $39,000 to $72,000. Depending on the nature of the business keeping young and wealthy individuals happy could be beneficial. Otherwise marketing for income range of $36,000 - $56,000 would be ideal.
+Looking at Income by Age we see something interesting. The individuals who are of 25-30 years of age have median income of $71,000. Then it roughly increases in an expected fashion from the age group of 30-35 years to 75-80 years from $39,000 to $72,000. Depending on the nature of the business keeping young and wealthy individuals happy could be beneficial.
 
 ![](https://github.com/DebangshuB/Tableu-Market-Analysis/blob/main/Images/Income%20Statistics.png)
 
